@@ -4,7 +4,10 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Emmet",
+		"Git",
+		"Markdown Preview",
 		"Package Control",
 		"Phpcs",
 		"Terminal",
