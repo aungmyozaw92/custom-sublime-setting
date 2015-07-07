@@ -1,12 +1,13 @@
 {
 	"color_scheme": "Packages/User/colour-schemes/Monokai Soda.tmTheme",
-	"font_size": 16,
+	"font_face": "Anonymous Pro",
+	"font_size": 18,
 	"ignored_packages":
 	[
 	],
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"tab_size": 4,
-    "translate_tabs_to_spaces": false,
-	"theme": "Soda Light 3.sublime-theme"
+	"theme": "Soda Light 3.sublime-theme",
+	"translate_tabs_to_spaces": false
 }
